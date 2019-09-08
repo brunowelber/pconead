@@ -1,0 +1,14 @@
+﻿Levantamento de requisitos para o sistema do ponto de vista do instrutor.
+O sistema deve permitir que:
+
+1- Instrutor crie um ou mais cursos.
+1.1- o instrutor defina o cronograma do curso
+1.1.2 - o instrutor define como será a duração do curso e carga horária de cada aula?
+1.2- o instrutor crie as aulas 
+1.3.1 -o instrutor  possa  Inserir material em PDF e mutmídia exemplo: vídio aulas, mp3 e ETC. 
+//onde esse conteúdo será armazenado? Aceitará conteúdo externo como do Youtube, como será?
+2-o instrutor forme  as turmas a partir dos alunos inscritos.
+3-o instrutor avalie em uma tela o desenpenho e as atividades dos alunos.       
+4- o instrutor insere notas 
+
+//Ainda está muito pouco detalhado, importante pegar cada um desses itens e tentar descrever cada um dos desdobramentos. Como se a nota será por exercício, se terá avaliação automática baseado em notas cadastradas para exercícios de multipla escolha, se terá exercícios, que formatos serão possíveis cadastrar, os cursos poderão receber atualizações, os cursos serão por módulos e aulas ou só aulas, etc. etc.
