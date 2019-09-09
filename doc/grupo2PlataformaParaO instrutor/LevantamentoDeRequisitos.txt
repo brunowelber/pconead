@@ -2,12 +2,14 @@
 O sistema deve permitir que:
 
 1- Instrutor crie um ou mais cursos.
-1.1- o instrutor defina o cronograma do curso
-1.1.2 - o instrutor define como será a duração do curso e carga horária de cada aula?
-1.2- o instrutor crie as aulas 
-1.3.1 -o instrutor  possa  Inserir material em PDF e mutmídia exemplo: vídio aulas, mp3 e ETC. 
-//onde esse conteúdo será armazenado? Aceitará conteúdo externo como do Youtube, como será?
+	1.1- o instrutor defina o cronograma do curso
+	1.1.2 - o instrutor define como será a duração do curso e carga horária de cada aula?
+	1.2- o instrutor crie as aulas 
+	1.3.1 -o instrutor  possa  Inserir material em PDF e multimídia exemplo: vídio aulas, mp3 e ETC. 
+			1.3.1 - O instrutor tenha campos para inserir codigo de incorporação de multimídia  de serviços como o youtube e soundcloud 
 2-o instrutor forme  as turmas a partir dos alunos inscritos.
+	2.1 - O instrutor possa defilnir o número máximo  de alunos por curso  
+	2.2 - O instrutor seja notificado quando a quantidade de alunos chegue ao número maximo  determinado 
 3-o instrutor avalie em uma tela o desenpenho e as atividades dos alunos.       
 4- o instrutor insere notas 
 
