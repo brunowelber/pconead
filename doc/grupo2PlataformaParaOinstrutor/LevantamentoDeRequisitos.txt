@@ -1,0 +1,16 @@
+﻿Levantamento de requisitos para o sistema do ponto de vista do instrutor.
+O sistema deve permitir que:
+1- Instrutor crie um ou mais cursos.
+	1.1- o instrutor defina o cronograma do curso
+	1.1.2 - o instrutor define como será a duração do curso e carga horária de cada aula?
+	1.2- o instrutor crie os módulos  e dentro dos mesmos crie   as aulas 
+	1.3 -o instrutor  possa  Inserir material em PDF e multimídia exemplo: vídio aulas, mp3 e ETC. 
+		1.3.1 - O instrutor tenha campos para inserir codigo de incorporação de multimídia  de serviços como o youtube e soundcloud 
+	1.4 - o instrutor insira texto do conteudo da aula em questão 
+	1.5 - o instrutor insira uma avaliação no final de cada aula ou módulo com questões de multipla escolha e/ou dissertativas      
+	1.6 - o instrutor possa tornar disponiveis as aulas do curso conforme um cronograma de datas ou toddas de uma vez.
+2-o instrutor forme  as turmas a partir dos alunos inscritos.
+2.1 - O instrutor possa defilnir o número máximo  de alunos por curso  
+2.2 - O instrutor seja notificado quando a quantidade de alunos chegue ao número maximo  determinado 
+3-o instrutor avalie em uma tela o desenpenho e as atividades dos alunos.       
+3.1 - O instrutor poderá ver uma nota gerada automaticamente nas questões de multipla escolha e lerá as respostas disssertativas e preencherá a nota e o campo para comentar a resposta.
